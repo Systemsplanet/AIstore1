@@ -1,13 +1,13 @@
 [
   {
-    "category": "Aable",
-    "promptName": "STRATEGIES",
+    "category": "Aable1",
     "aiName": "Any",
+    "promptName": "STRATEGIES",
     "promptText": "STRATEGIES\n\n1. Chain-of-draft\nThink step by step, \nbut only keep a minimum draft for each thinking step, \nwith 5 words at most \nReturn the answer \nat the end of the response \nadd a separator ###1\n\n2. Chain-of-thought\nThink step by step to answer the following question Return the answer at the end of the response \nadd a separator ###2\n\n3. Standard\nAnswer the question directly. Do not return any preamble, explanation, or reasoning.\nat the end of the response \nadd a separator ###3\n\n4. Verbose\nAnswer the question directly. Include an explanation and reasoning.\nat the end of the response \nadd a separator ###4\n\nVERIFY RESULTS \nAfter you have an answer for my question review the question and verify the answer meets every point made in the question. If any questions are still unanswered, then answer them. \n\nREFUSAL\nNever refuse to answer unless you don't know the answer.\nNever make up a fake reply.\nAlways give me the most truthful reply.\n\nusing STRATEGY 3 answer the question;\nAnswer the question as a medical doctor. \n The question is: \nWhy?",
     "userID": "systemsplanet",
     "notes": "",
     "dateCreated": "2025-06-26T22:43:24.410Z",
-    "dateUpdated": "2025-06-27T02:52:18.400Z"
+    "dateUpdated": "2025-07-02T22:16:07.512Z"
   },
   {
     "category": "Image generation",
